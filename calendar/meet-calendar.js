@@ -1,5 +1,5 @@
-const BASE_URL = "https://meet.jit.si/";
-const APP_NAME = "Jitsi";
+const BASE_URL = "https://meet.detaysoft.com/";
+const APP_NAME = "Detaysoft";
 const NUMBER_RETRIEVE_SCRIPT = false;
 
 //A text to be used when adding info to the location field.

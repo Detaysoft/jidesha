@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Jitsi Desktop Streamer",
-  "description": "A simple extension that allows you to stream your desktop into meetings with Jitsi Meet and Jitsi Videobridge.",
+  "name": "Detaysoft Meet",
+  "description": "Masaüstünüzü Desktop sharing extension ile toplantılara çağırmanızı sağlayan basit bir uzantı.",
   "version": "0.1.6",
   "minimum_chrome_version": "34",
   "icons": {
@@ -18,7 +18,7 @@
   ],
   "externally_connectable": {
       "matches": [
-          "*://meet.jit.si/*"
+          "*://meet.detaysoft.com/*"
       ]
   }
 }

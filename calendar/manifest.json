@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
-  "name": "Jitsi Meetings",
-  "description": "A simple extension that allows you to schedule Jitsi Meetings and stream your desktop into Jitsi conferences.",
+  "name": "Detaysoft Meet",
+  "description": "Masaüstünüzü Desktop sharing extension ile toplantılara çağırmanızı sağlayan basit bir uzantı.",
   "version": "0.2.6",
   "minimum_chrome_version": "34",
   "icons": {
@@ -18,7 +18,7 @@
   ],
   "externally_connectable": {
       "matches": [
-        "*://meet.jit.si/*"
+        "*://meet.detaysoft.com/*"
       ]
   },
   "content_scripts": [

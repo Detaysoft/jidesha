@@ -2,3 +2,8 @@
 /firefox/target
 /calendar/target
 /firefox/jidesha.xpi
+
+.DS_Store
+*.pem
+*.crx
+*.zip
