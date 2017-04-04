@@ -2,7 +2,7 @@
 set -e
 
 #space-separated list of domains
-DOMAINS=""
+DOMAINS="meet.detaysoft.com"
 
 # The ID of the extension. This is to be chosen for the particular deployment and
 # is used to allow applications (e.g. jitsi-meet) to detect whether the 
@@ -10,7 +10,7 @@ DOMAINS=""
 # deployments.
 # See https://developer.mozilla.org/en-US/Add-ons/Install_Manifests for requirements
 # for the format.
-EXT_ID=""
+EXT_ID="meet.detaysoft@detaysoft.com"
 
 CONTENT_ROOT=`echo $EXT_ID | tr @ .`
 

@@ -5,9 +5,9 @@
 
   <Description about="urn:mozilla:install-manifest">
     <em:id>JIDESHA_EXT_ID</em:id>
-    <em:name>Jidesha</em:name>
+    <em:name>Detaysoft_Meet</em:name>
     <em:description>Jitsi-Meet Desktop Sharing: enables screen sharing for the Jitsi-Meet application.</em:description>
-    <em:version>0.1.1</em:version>
+    <em:version>0.1.2</em:version>
     <em:creator>Jitsi</em:creator>
     <em:homepageURL>https://github.com/jitsi/jidesha/</em:homepageURL>
     <em:type>2</em:type>

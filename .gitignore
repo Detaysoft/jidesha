@@ -1,7 +1,7 @@
 .*swp
 /firefox/target
 /calendar/target
-/firefox/jidesha.xpi
+*.xpi
 
 .DS_Store
 *.pem
